@@ -1,0 +1,8 @@
+#   Get the list of sites and type this in CMD/TERMINAL   #
+
+#   python run.py "yourlist.txt"
+
+#   You will receive the results in folder of its txt   #
+
+
+Telegram : @Capitos_Kamal
